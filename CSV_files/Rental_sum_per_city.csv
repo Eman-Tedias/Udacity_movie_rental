@@ -1,0 +1,598 @@
+"rental_sum","city","city_id"
+211.55,"Saint-Denis",442
+208.58,"Cape Coral",101
+191.62,"Apeldoorn",29
+189.62,"Santa Brbara dOeste",456
+189.60,"Molodetno",340
+183.63,"Qomsheh",423
+168.56,"London",312
+165.62,"Tanza",527
+164.68,"Memphis",333
+164.63,"Richmond Hill",430
+162.67,"Valparai",564
+161.68,"Santa Rosa",458
+158.65,"Ourense (Orense)",388
+157.69,"Hodeida",206
+155.67,"Tanauan",523
+154.66,"Bijapur",78
+152.71,"Halisahar",197
+152.69,"Usolje-Sibirskoje",558
+152.68,"Probolinggo",415
+151.73,"Sumy",506
+151.68,"Skikda",483
+151.60,"Aurora",42
+148.70,"Cam Ranh",100
+148.70,"Zhoushan",599
+147.71,"Bhilwara",74
+146.68,"Citt del Vaticano",121
+146.68,"Songkhla",489
+145.70,"Maikop",320
+144.70,"Omdurman",379
+144.68,"Arecibo",32
+144.66,"Hsichuh",209
+143.70,"Yangor",583
+143.69,"Tangail",525
+143.68,"Uruapan",556
+142.70,"Daugavpils",137
+142.69,"Nakhon Sawan",358
+142.66,"Beira",64
+141.71,"Vila Velha",569
+141.69,"Rae Bareli",425
+141.68,"Fuyu",174
+140.69,"Belm",66
+140.65,"Balikesir",50
+140.64,"Changhwa",108
+139.72,"Nyeri",372
+139.69,"Najafabad",356
+139.69,"Shubra al-Khayma",476
+139.67,"Malm",321
+138.69,"Naju",357
+137.67,"Bergamo",70
+137.66,"Shimonoseki",474
+135.72,"Wroclaw",577
+135.70,"Robamba",434
+134.73,"Juiz de Fora",248
+134.72,"Cuauhtmoc",129
+134.71,"Ife",217
+134.70,"Aden",7
+134.69,"Lengshuijiang",298
+134.69,"Usak",557
+133.72,"Akron",11
+133.71,"Omiya",380
+133.70,"Batman",58
+133.68,"Changzhou",109
+133.66,"Nantou",361
+132.73,"Sincelejo",480
+132.72,"Olomouc",378
+132.65,"Tychy",549
+131.73,"Osmaniye",384
+131.69,"Boksburg",85
+131.69,"Moscow",343
+130.76,"Athenai",38
+130.73,"Imus",221
+130.72,"Salamanca",445
+130.72,"Kragujevac",280
+130.70,"Siliguri (Shiliguri)",478
+130.70,"Bhopal",76
+130.68,"Tokat",538
+130.68,"Boa Vista",84
+129.72,"Lancaster",292
+129.71,"Binzhou",80
+129.71,"Dos Quebradas",147
+129.70,"Ashdod",34
+129.70,"Fengshan",168
+128.73,"Yinchuan",587
+128.71,"Ilorin",220
+128.71,"Qinhuangdao",422
+128.70,"Atlixco",40
+128.69,"Jinchang",240
+128.69,"Mannheim",325
+127.73,"Syrakusa",511
+127.69,"Nha Trang",366
+127.69,"Fukuyama",172
+127.66,"Chisinau",115
+126.75,"Nam Dinh",359
+126.73,"Sterling Heights",499
+126.73,"Vancouver",565
+126.73,"Blumenau",83
+125.74,"Coatzacoalcos",125
+125.74,"Purnea (Purnia)",418
+125.68,"Urawa",555
+124.74,"Antofagasta",27
+124.73,"Kolpino",274
+124.71,"La Plata",289
+124.68,"Ikerre",218
+124.66,"Liaocheng",302
+123.75,"Ashgabat",35
+123.75,"Erlangen",160
+123.74,"San Bernardino",449
+123.73,"Avellaneda",43
+123.72,"Pontianak",412
+123.71,"Cabuyao",98
+123.70,"Davao",138
+123.70,"Fontana",171
+123.66,"Lungtan",316
+122.74,"Goinia",183
+122.74,"Ozamis",391
+122.72,"NDjamna",363
+122.69,"Lhokseumawe",301
+121.73,"Huixquilucan",213
+121.73,"Lilongwe",304
+121.71,"Duisburg",148
+121.70,"El Fuerte",154
+121.69,"Charlotte Amalie",111
+120.78,"Vijayawada",568
+120.75,"Mit Ghamr",337
+120.74,"Sawhaj",465
+120.74,"Kirovo-Tepetsk",270
+120.71,"Kitwe",272
+120.71,"Brindisi",93
+120.70,"Lima",305
+119.76,"Mysore",350
+119.75,"Emeishan",157
+119.74,"Pjatigorsk",408
+119.72,"Sungai Petani",507
+119.72,"Nuuk",371
+118.76,"Simferopol",479
+118.75,"Loja",311
+118.75,"Parbhani",398
+118.73,"Hunuco",214
+118.70,"Toulouse",544
+118.70,"Jastrzebie-Zdrj",236
+118.69,"Botosani",86
+117.77,"Southampton",494
+117.77,"Otsu",386
+117.75,"Joliet",245
+117.72,"Zhezqazghan",598
+117.71,"Lapu-Lapu",294
+117.69,"Santo Andr",461
+116.76,"Pudukkottai",416
+116.76,"Jedda",237
+116.75,"Brockton",94
+116.74,"Miyakonojo",338
+116.74,"York",589
+116.72,"Baybay",61
+116.71,"Satna",464
+115.76,"Yerevan",586
+115.74,"Mandaluyong",323
+115.74,"Karnal",263
+115.72,"Bhimavaram",75
+115.71,"Korolev",278
+115.70,"Greensboro",187
+114.74,"Iwakuni",227
+114.73,"Kakamigahara",253
+114.73,"Banjul",54
+114.73,"Portoviejo",414
+114.70,"Sasebo",463
+113.77,"Naala-Porto",351
+113.75,"Brescia",91
+113.74,"Salzburg",447
+113.74,"Tiefa",536
+113.73,"Cavite",104
+113.73,"Leshan",299
+113.73,"Touliu",542
+113.72,"Dadu",134
+113.71,"Sorocaba",490
+113.70,"Datong",136
+112.77,"Quilmes",424
+112.76,"Ruse",436
+112.75,"Lincoln",306
+112.74,"Jhansi",239
+112.74,"Merlo",334
+112.73,"Mukateve",345
+112.72,"Shaoguan",469
+111.77,"Maracabo",326
+111.76,"Ambattur",22
+111.74,"Tanshui",526
+111.73,"Graz",186
+111.73,"Cuman",132
+110.77,"Onomichi",382
+110.77,"Kuwana",287
+110.76,"Santiago de los Caballeros",460
+110.75,"Papeete",397
+110.74,"Mosul",344
+110.74,"Coquimbo",127
+110.73,"Yuncheng",590
+110.72,"Szkesfehrvr",512
+110.72,"Bilbays",79
+110.72,"Meixian",332
+110.71,"Jinzhou",242
+110.68,"Xiangfan",578
+109.77,"Udaipur",550
+109.77,"Tabriz",514
+109.77,"Tonghae",539
+109.77,"Huejutla de Reyes",212
+109.77,"Baiyin",47
+109.76,"Cuernavaca",131
+109.75,"Zanzibar",593
+109.73,"Kurgan",285
+109.73,"Baicheng",46
+109.73,"Nabereznyje Telny",352
+109.72,"Uluberia",554
+109.72,"Kamjanets-Podilskyi",258
+109.72,"Mwanza",347
+108.77,"Jining",241
+108.76,"Ogbomosho",374
+108.75,"Sivas",482
+108.73,"Akishima",10
+108.72,"Ciomas",118
+108.72,"Shanwei",468
+108.72,"Haldia",195
+108.71,"Chandrapur",107
+107.79,"Donostia-San Sebastin",146
+107.78,"Plock",409
+107.77,"Guaruj",189
+107.76,"Sumqayit",505
+107.76,"Southend-on-Sea",495
+107.74,"Dhaka",143
+107.74,"Taizz",518
+107.73,"Weifang",574
+107.73,"Soshanguve",491
+107.71,"Pyongyang",420
+107.70,"Poos de Caldas",413
+107.70,"San Felipe de Puerto Plata",450
+106.79,"Stockport",500
+106.77,"Mexicali",335
+106.77,"Iwaki",226
+106.74,"Pemalang",403
+106.74,"Johannesburg",244
+106.73,"Ljubertsy",310
+106.68,"Hohhot",207
+105.78,"Santa F",457
+105.78,"Smolensk",484
+105.78,"Sogamoso",487
+105.77,"Dayton",140
+105.77,"al-Manama",14
+105.76,"Jalib al-Shuyukh",233
+105.76,"Dallas",135
+105.74,"Nador",353
+105.74,"Iwatsuki",228
+105.73,"Augusta-Richmond County",41
+105.73,"Pak Kret",394
+105.72,"Tartu",530
+104.79,"San Lorenzo",453
+104.77,"Kuching",282
+104.76,"Kowloon and New Kowloon",279
+104.75,"Ipoh",223
+104.75,"Etawah",164
+104.74,"Kamarhati",257
+104.74,"Rustenburg",437
+104.73,"Shikarpur",472
+104.72,"Atinsk",39
+104.71,"Tongliao",540
+103.78,"Ede",151
+103.77,"Owo",389
+103.74,"Bhusawal",77
+103.74,"Liepaja",303
+103.73,"Jaffna",230
+103.73,"Mardan",327
+102.80,"Benin City",69
+102.78,"Kisumu",271
+102.78,"Sharja",470
+102.77,"Kamyin",259
+102.77,"Novi Sad",368
+102.76,"al-Ayn",12
+102.75,"Rockford",435
+102.75,"Po",410
+102.74,"Batna",59
+102.71,"Munger (Monghyr)",346
+102.67,"Bandar Seri Begawan",53
+101.79,"Sultanbeyli",504
+101.78,"Dongying",145
+101.77,"Celaya",106
+101.76,"Garden Grove",177
+101.73,"A Corua (La Corua)",1
+101.72,"Compton",126
+100.78,"Jelets",238
+100.78,"Patiala",400
+100.77,"Acua",4
+100.76,"Chungho",116
+100.76,"Czestochowa",133
+100.75,"Sunnyvale",508
+100.75,"Uijongbu",553
+100.71,"Tandil",524
+99.78,"Isesaki",224
+99.76,"Halle/Saale",198
+99.74,"Vaduz",560
+99.74,"Ahmadnagar",9
+99.73,"Pune",417
+99.73,"Bucuresti",95
+99.72,"Ueda",552
+99.68,"South Hill",493
+98.82,"Kimberley",267
+98.78,"Sagamihara",440
+98.78,"Bern",72
+98.77,"Jamalpur",234
+98.75,"San Juan Bautista Tuxtepec",452
+98.74,"Iligan",219
+97.80,"Cayenne",105
+97.80,"Adoni",8
+97.79,"Florencia",170
+97.78,"Sokoto",488
+97.78,"ostka",385
+97.78,"Deba Habe",141
+97.77,"Varanasi (Benares)",566
+97.76,"Tabora",513
+97.75,"Monywa",342
+97.75,"Jos Azueta",246
+96.80,"Lipetsk",308
+96.79,"Bhavnagar",73
+96.79,"Palghat (Palakkad)",395
+96.77,"Allende",19
+96.76,"Effon-Alaiye",152
+96.76,"Escobar",161
+96.75,"Madiun",318
+96.74,"Rio Claro",431
+95.80,"Rajkot",426
+95.79,"Ivanovo",225
+95.79,"Carmen",103
+95.78,"Livorno",309
+95.78,"La Paz",288
+95.77,"Trshavn",545
+95.76,"Ziguinchor",600
+95.76,"Higashiosaka",203
+95.76,"Vicente Lpez",567
+95.76,"Vitria de Santo Anto",572
+95.76,"Xinxiang",581
+95.72,"Botshabelo",87
+94.78,"Shivapuri",475
+94.78,"Allappuzha (Alleppey)",18
+94.78,"Hidalgo",202
+94.77,"Warren",573
+94.76,"Jakarta",232
+94.76,"Esfahan",162
+94.76,"Tel Aviv-Jaffa",533
+94.72,"Abu Dhabi",3
+93.83,"Birgunj",81
+93.80,"Newcastle",364
+93.80,"Benguela",67
+93.79,"So Leopoldo",486
+93.79,"San Felipe del Progreso",451
+93.79,"Bamenda",52
+93.78,"Funafuti",173
+93.76,"Tama",521
+93.76,"Laohekou",293
+93.75,"Namibe",360
+93.74,"Kermanshah",265
+93.74,"Yamuna Nagar",582
+92.81,"Juazeiro do Norte",247
+92.81,"Salinas",446
+92.80,"So Bernardo do Campo",485
+92.80,"Angra dos Reis",25
+92.79,"Okinawa",377
+92.79,"Yuzhou",591
+92.79,"Mahajanga",319
+92.79,"Firozabad",169
+92.79,"Rampur",427
+92.78,"Suihua",502
+92.77,"Haiphong",194
+92.76,"Anpolis",26
+92.75,"Peoria",404
+91.81,"Okayama",376
+91.80,"Bellevue",65
+91.79,"Springs",497
+91.79,"Nanyang",362
+91.78,"Citrus Heights",120
+91.78,"Witten",575
+91.77,"Addis Abeba",6
+91.76,"Emmen",158
+91.76,"Caracas",102
+91.75,"Cuautla",130
+90.79,"Pereira",405
+90.78,"Tuguegarao",548
+90.77,"Sanya",462
+90.76,"Monclova",341
+90.75,"Arak",31
+90.73,"Gingoog",182
+89.82,"Sal",443
+89.80,"Haining",193
+89.79,"Sucre",501
+89.78,"Kimchon",268
+89.78,"Baku",48
+89.78,"Guadalajara",188
+89.77,"Idfu",216
+89.77,"Ondo",381
+89.77,"Eskisehir",163
+89.77,"Buenaventura",96
+89.76,"Kurashiki",284
+89.76,"Bayugan",62
+89.76,"Halifax",196
+88.81,"Coacalco de Berriozbal",124
+88.81,"Tianjin",535
+88.80,"Mwene-Ditu",348
+88.79,"al-Qatif",16
+88.78,"Amersfoort",23
+88.78,"Bchar",63
+88.77,"Uttarpara-Kotrung",559
+88.75,"Torren",541
+88.73,"Taguig",517
+87.82,"Elista",156
+87.81,"Gorontalo",184
+87.81,"Alessandria",17
+87.80,"Arlington",33
+87.80,"Kanazawa",260
+87.80,"Vinh",571
+87.79,"Asuncin",37
+87.79,"Oshawa",383
+87.78,"guas Lindas de Gois",190
+87.77,"Zeleznogorsk",597
+86.82,"Talavera",519
+86.82,"Chapra",110
+86.81,"Ashqelon",36
+86.81,"Lublin",314
+86.81,"Shimoga",473
+86.81,"Siegen",477
+86.81,"Gatineau",179
+86.80,"Pingxiang",407
+86.80,"Xiangtan",579
+86.79,"Chiayi",114
+86.79,"Sambhal",448
+86.78,"Battambang",60
+86.77,"Zaria",596
+86.76,"Katihar",264
+86.71,"Daxian",139
+85.80,"Faaa",167
+85.80,"Serpuhov",466
+85.80,"La Romana",290
+85.78,"Abha",2
+85.78,"El Alto",153
+85.78,"Manchester",322
+85.77,"Araatuba",30
+85.77,"Crdoba",128
+85.77,"Hamilton",200
+85.76,"Garland",178
+85.73,"Yaound",585
+84.84,"Pangkal Pinang",396
+84.81,"Balaiha",49
+84.81,"Konotop",275
+84.80,"Cheju",113
+84.80,"Valencia",561
+84.80,"Aparecida de Goinia",28
+84.79,"Hiroshima",205
+84.76,"Surakarta",509
+84.75,"Laredo",295
+83.82,"Clarksville",123
+83.81,"Gaziantep",180
+83.80,"Kilis",266
+83.78,"Lausanne",296
+83.77,"Hanoi",201
+83.74,"Nezahualcyotl",365
+82.78,"Xintai",580
+82.78,"Sullana",503
+82.77,"Phnom Penh",406
+82.76,"Salala",444
+81.83,"Purwakarta",419
+81.83,"Denizli",142
+81.81,"Ocumare del Tuy",373
+81.81,"Baha Blanca",45
+81.81,"Kansas City",262
+81.80,"Tabuk",515
+81.80,"Hami",199
+81.78,"Myingyan",349
+81.75,"Laiwu",291
+80.85,"Kursk",286
+80.83,"Sirjan",481
+80.82,"Ciudad del Este",122
+80.81,"Miraj",336
+80.80,"s-Hertogenbosch",438
+80.79,"Almirante Brown",20
+80.78,"Nagareyama",355
+80.78,"Valle de la Pascua",562
+80.77,"Stara Zagora",498
+80.77,"Bratislava",90
+80.77,"Balurghat",51
+79.82,"Rizhao",432
+79.81,"Callao",99
+79.81,"Klerksdorp",273
+79.80,"Shahr-e Kord",467
+79.79,"Tambaram",522
+79.78,"Lubumbashi",315
+79.75,"Izumisano",229
+78.84,"Tsuyama",547
+78.82,"Tieli",537
+78.81,"Kaduna",252
+78.81,"Ponce",411
+78.80,"Paarl",392
+78.80,"Dhule (Dhulia)",144
+78.80,"Jaipur",231
+78.79,"Oulu",387
+78.79,"Amroha",24
+78.79,"Saint Louis",441
+78.77,"Junan",249
+78.77,"Mogiljov",339
+77.84,"Mandi Bahauddin",324
+77.81,"Brest",92
+77.81,"Qalyub",421
+77.79,"Huaian",210
+77.78,"Toulon",543
+77.77,"San Miguel de Tucumn",454
+76.82,"Maring",328
+76.80,"Grand Prairie",185
+76.80,"Zalantun",592
+76.78,"Jodhpur",243
+75.83,"al-Hawiya",13
+75.81,"Kalisz",255
+75.80,"Ranchi",429
+75.79,"Alvorada",21
+75.78,"Yingkou",588
+75.78,"Luzinia",317
+74.84,"Hino",204
+74.83,"Chatsworth",112
+74.80,"El Monte",155
+74.79,"Pavlodar",402
+73.85,"Bag",44
+73.84,"Hoshiarpur",208
+73.83,"Roanoke",433
+73.82,"Okara",375
+73.81,"Masqat",329
+73.81,"Kamakura",256
+73.81,"Syktyvkar",510
+73.80,"Beni-Mellal",68
+73.79,"Saarbrcken",439
+73.78,"Dundee",149
+72.83,"Pathankot",399
+72.82,"Braslia",89
+72.82,"Southport",496
+72.81,"Gijn",181
+72.79,"Bradford",88
+72.79,"Ezeiza",165
+72.79,"Sousse",492
+72.79,"Patras",401
+71.85,"Kaliningrad",254
+71.84,"Jaroslavl",235
+71.82,"Adana",5
+71.80,"Dzerzinsk",150
+71.79,"Inegl",222
+71.77,"Matamoros",330
+70.82,"Shenzhen",471
+70.82,"Hagonoy",192
+70.81,"Gulbarga",191
+70.81,"Sanaa",455
+69.83,"Gandhinagar",176
+69.79,"Zaoyang",594
+68.87,"Ibirit",215
+68.84,"Zapopan",595
+68.82,"Nagaon",354
+68.80,"Jurez",250
+68.77,"Cianjur",117
+68.77,"Korla",277
+67.86,"Niznekamsk",367
+67.86,"Rancagua",428
+67.82,"Matsue",331
+67.82,"Kabul",251
+66.82,"Bislig",82
+66.81,"Tegal",532
+65.87,"Yantai",584
+65.83,"Pachuca de Soto",393
+65.83,"Novoterkassk",369
+65.83,"Ciparay",119
+65.83,"Udine",551
+65.81,"Berhampore (Baharampur)",71
+64.87,"Bat Yam",57
+64.85,"Tarsus",529
+64.84,"Nukualofa",370
+64.82,"Kingstown",269
+63.84,"Ezhou",166
+63.80,"Barcelona",55
+63.79,"Teboksary",531
+62.85,"Tarlac",528
+62.85,"Kanchrapara",261
+62.84,"Santiago de Compostela",459
+61.82,"Koriyama",276
+59.86,"Hubli-Dharwad",211
+58.84,"Le Mans",297
+58.83,"Linz",307
+58.82,"Tete",534
+58.79,"Vilnius",570
+57.87,"Basel",56
+57.86,"Ktahya",281
+57.81,"al-Qadarif",15
+56.84,"Kumbakonam",283
+54.85,"Oyo",390
+52.81,"Valle de Santiago",563
+50.83,"Tsaotun",546
+49.88,"Enshi",159
+47.85,"Tafuna",516
+37.87,"Tallahassee",520
+32.90,"Fuzhou",175
+27.93,"Bydgoszcz",97
