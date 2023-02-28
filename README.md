@@ -4,7 +4,8 @@
   To load the database, I used PostgreSQL and saved the filtered files in CSV format. I used the Python "matplotlib" library to generate visualization graphs from the CSV files read into Pandas dataframes. Along with the graphs, I included a brief storytelling of my proposal. 
 
 You can access the code in the file "Project_eman.ipynb" inside the repository and the graphics/proposal in the "UMR_Project" PDF file.
-Also, you can access eveything through the Google Colab link: 
+Also, you can access eveything through the following Google Colab link:
+#
 https://colab.research.google.com/drive/1w9q7arMpzS65nwvxZv1XY9w3oNfS4f0f?usp=sharing
 
 # Interactive Dashboard
