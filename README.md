@@ -11,6 +11,7 @@ https://colab.research.google.com/drive/1w9q7arMpzS65nwvxZv1XY9w3oNfS4f0f?usp=sh
 # Interactive Dashboard
 
 Additionally, I created a Power BI dashboard to have an interactive visualization and provide other types of data, beyond what the exercise proposed. This activity was not part of the project, I just wanted to include it. 
+I used Python to generate a new column with each Movie Gender Icon I created with Adobe Illustrator.
 
 #Dashboard preview:
 
